@@ -3,8 +3,6 @@
 
 
 ## Table of Contents  <!-- omit in toc -->
-- [Future Improvements](#future-improvements)
-- [Known Issues](#known-issues)
 - [Install Anaconda Environment](#install-anaconda-environment)
 - [Feature Extractor Weights](#feature-extractor-weights)
   - [C3D](#c3d)
@@ -24,15 +22,6 @@
 - [Cite](#cite)
 - [FAQ](#faq)
 
-## Future Improvements
-In this section, I list the future improvements I intend to add to this repository. Please feel free to recommend new features. I also happily accept PR's! :smirk:
-
-* I3D feature extraction
-* MFNET feature extraction
-
-## Known Issues
-
-* AUC is not exactly as reported in the paper (0.70 vs 0.75) - might be affected by the weights of C3D
 
 ## Install Anaconda Environment
 
