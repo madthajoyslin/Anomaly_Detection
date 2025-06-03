@@ -8,7 +8,7 @@
 [![Checked with mypy](https://www.mypy-lang.org/static/mypy_badge.svg)](https://mypy-lang.org/)
 
 # AnomalyDetectionCVPR2018-Pytorch  <!-- omit in toc -->
-Pytorch version of - https://github.com/WaqasSultani/AnomalyDetectionCVPR2018
+
 
 ## Table of Contents  <!-- omit in toc -->
 - [Future Improvements](#future-improvements)
